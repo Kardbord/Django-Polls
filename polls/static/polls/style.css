@@ -1,7 +1,11 @@
 .question {
     color: lightpink;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.questionBullet {
+    padding-top: 10px;
+    color: lightgreen;
 }
 
 .result {
