@@ -4,9 +4,6 @@
     padding-top: 50px;
     padding-bottom: 50px;
 }
-li {
-    padding-top: 20px;
-}
 body {
     background: white url("images/background.jpg") no-repeat;
     background-size:cover;
@@ -21,4 +18,5 @@ h1 {
     font-family: fantasy;
     font-size: 60px;
     color: lightgreen;
+    padding-bottom: 20px;
 }
