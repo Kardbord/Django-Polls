@@ -1,5 +1,11 @@
 li a {
-    color: green;
+    color: lightpink;
+    font-family: fantasy;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+li {
+    padding-top: 20px;
 }
 body {
     background: white url("images/background.jpg") no-repeat;
@@ -8,4 +14,11 @@ body {
 
 ul {
     font-size: 26px;
+}
+
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+    color: lightgreen;
 }
