@@ -1,0 +1,11 @@
+li a {
+    color: green;
+}
+body {
+    background: white url("images/background.jpg") no-repeat;
+    background-size:cover;
+}
+
+ul {
+    font-size: 26px;
+}
