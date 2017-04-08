@@ -1,12 +1,26 @@
 .question {
     color: lightpink;
-    font-family: fantasy;
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+.result {
+    color: lightpink;
+    display:flex;
+    justify-content: center;
+}
+
+.option {
+    font-size: 20px;
+    color: lightblue;
+    display:flex;
+    justify-content: center;
+}
+
 body {
     background: white url("images/background.jpg") no-repeat;
     background-size:cover;
+    font-family: fantasy;
 }
 
 ul {
@@ -15,7 +29,6 @@ ul {
 
 h1 {
     text-align: center;
-    font-family: fantasy;
     font-size: 60px;
     color: lightgreen;
     padding-bottom: 20px;
